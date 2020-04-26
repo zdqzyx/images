@@ -1,1 +1,1 @@
-github 图床专用
+# github 图床专用
